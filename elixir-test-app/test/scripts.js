@@ -1,7 +1,7 @@
 var fs     = require('fs');
 var gulp   = require('gulp');
 var remove = require('rimraf');
-var Elixir = require('laravel-elixir');
+var Elixir = require('@hvent/laravel-elixir');
 
 
 describe('Scripts Task', function() {

@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var GulpPaths = require('laravel-elixir').GulpPaths;
+var GulpPaths = require('@hvent/laravel-elixir').GulpPaths;
 
 describe('Gulp Paths', function() {
     var paths;

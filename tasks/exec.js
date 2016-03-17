@@ -1,12 +1,12 @@
 var gulp    = require('gulp');
-var Elixir = require('laravel-elixir');
+var Elixir = require('@hvent/laravel-elixir');
 
 /*
  |----------------------------------------------------------------
  | Shell Commands
  |----------------------------------------------------------------
- | 
- | Need to execute a shell script, as part of your compile 
+ |
+ | Need to execute a shell script, as part of your compile
  | process? No problem. Elixir can help with that. Just
  | call `mix.exec('command')`, and, bam, you're set!
  |

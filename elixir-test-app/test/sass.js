@@ -2,7 +2,7 @@ var fs     = require('fs');
 var gulp   = require('gulp');
 var remove = require('rimraf');
 var should = require('chai').should();
-var Elixir = require('laravel-elixir');
+var Elixir = require('@hvent/laravel-elixir');
 
 
 describe('Sass Task', function() {
