@@ -1,5 +1,5 @@
 {
-  "name": "laravel-elixir",
+  "name": "@hvent/laravel-elixir",
   "version": "5.0.0",
   "description": "Laravel Elixir Core",
   "main": "index.js",
@@ -39,7 +39,7 @@
     "gulp-load-plugins": "^1.0.0-rc.1",
     "gulp-notify": "^2.2.0",
     "gulp-rename": "^1.2.2",
-    "gulp-rev": "^5.1.0",
+    "@hvent/gulp-rev": "*",
     "gulp-rev-replace": "^0.4.2",
     "gulp-sass": "^2.0.3",
     "gulp-sourcemaps": "^1.5.2",
